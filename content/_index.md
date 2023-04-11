@@ -1,11 +1,15 @@
 ---
-title: "Woohoo"
+title: "About"
 layout: single
 ---
 
-Lorem ipsum dolor sit amet, ex has sale ullum corrumpit, sea dicam nostrum sensibus ad. Porro tritani persecuti te sed. Omittam dissentias pro ex. Atqui luptatum duo id. Eros minim eam ex, novum elitr accusam quo in. Nec ne audire euripidis, [mea qualisque consetetur cu](https://example.com). Suspendisse volutpat sem a risus euismod convallis.
+Fossil footprints are far less accessible than most skeletal fossils and artifacts, because they cannot be removed from their primary contexts and are typically re-buried following excavation.
 
-In modus congue feugait eos. In nec nonumy volutpat corrumpit, sea assentior quaerendum no, cum affert scripta ea. No nihil voluptaria pro. [Erat democritum mei no](https://example.com), homero quodsi aliquando id mel, ridens civibus molestiae et nam.
+Digital representations of footprint sites (e.g., 3-D models) are often cumbersome, and difficult to visualize in traditional publishing formats.
+Accurate scale is also essential for interpreting them, and scale is not easily appreciated when viewing a digital 3-D model (with zoom) or a 2-D image (Fig. 1). 
 
-Ea eam postea facilisi. Nullam forensibus consequuntur usu ea, no ius consul delectus periculis. Eam veri numquam an. Et partiendo gubergren eam. Quod iudicabit has ex, eam diam facilisi eu, elitr aliquip no eum.
+We leveraged virtual reality (VR) technologies to develop an immersive experience, allowing users (e.g., students and the public) to “visit” and interact at full-scale with 3-D representations of otherwise inaccessible fossil footprint sites.
 
+We focus on visualizing fossil footprint sites from Okote Member deposits near Ileret and Koobi Fora, Kenya, where there exist high concentrations of hominin footprint sites.
+
+Direct interaction with these models in VR may provide more intuitive insights and understandings of the movement of fossil hominins and the animals that co-existed on their landscapes

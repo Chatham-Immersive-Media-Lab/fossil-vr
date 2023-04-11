@@ -1,5 +1,5 @@
-baseurl = "https://example.com"
-title = "Fossil-VR"
+baseurl = "https://chatham-immersive-media-lab.github.io/fossil-vr"
+title = "Chatham FossilVR"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"

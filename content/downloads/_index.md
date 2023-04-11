@@ -1,12 +1,7 @@
 ---
-title: VR Project
+title: Model Downloads
 weight: 1
 layout: single
 ---
-
-asdf asdf
-
-## Running the project on Quest 2
-
 
 ## Download our Fossil Scans
