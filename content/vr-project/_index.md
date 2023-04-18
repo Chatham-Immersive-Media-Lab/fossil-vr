@@ -5,7 +5,7 @@ layout: single
 
 ## Installing
 
-1. Download the APK: 
+1. Download the APK: [Alpha APK download](https://hunterassetcollectiondb.blob.core.windows.net/fossilvr/build/alpha-experiencing-history-4-17-23.apk)
 2. If not already, put the Quest 2 or Quest Pro headset in [developer mode](https://youtu.be/lFTXv2aScJ8?t=169).
 3. Install the APK using [Sidequest](https://sidequestvr.com/) advanced installer (recommended) or [android developer bridge](https://developer.oculus.com/documentation/native/android/ts-adb/).
 
