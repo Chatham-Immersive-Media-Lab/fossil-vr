@@ -247,6 +247,11 @@ hr {
     max-width: 100%;
 }
 
+img{
+    width: 100%;
+
+}
+
 /* < medium screens */
 
 @media (max-width: 767.98px) {
