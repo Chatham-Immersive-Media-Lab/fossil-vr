@@ -3,6 +3,8 @@ title: "About"
 layout: single
 ---
 
+![A Screenshot of the projects landing menu board](/images/table-layout.jpg)
+
 Fossil footprints are far less accessible than most skeletal fossils and artifacts, because they cannot be removed from their primary contexts and are typically re-buried following excavation.
 
 Digital representations of footprint sites (e.g., 3-D models) are often cumbersome, and difficult to visualize in traditional publishing formats.
