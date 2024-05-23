@@ -28,7 +28,4 @@ weight = 1
 name = "VR Project"
 url = "/VR Project/"
 weight = 2
-[[menu.primary]]
-name = "Model Downloads"
-url = "/downloads"
-weight = 3
+

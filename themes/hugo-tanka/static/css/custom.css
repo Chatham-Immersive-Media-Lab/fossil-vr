@@ -111,8 +111,8 @@ hr {
 }
 
 .content .markdown li {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    /*margin-top: 1rem;*/
+    /*margin-bottom: 1rem;*/
 }
 
 .content twitterwidget {
@@ -245,6 +245,11 @@ hr {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
     max-width: 100%;
+}
+
+img{
+    width: 100%;
+
 }
 
 /* < medium screens */
